@@ -1,0 +1,21 @@
+{
+  "cast_key": "e",
+  "minigame_key": "space",
+  "check_delay": 0.05,
+  "trigger_zone": [
+    900,
+    500,
+    1020,
+    580
+  ],
+  "target_color_hsv_low": [
+    35,
+    100,
+    100
+  ],
+  "target_color_hsv_high": [
+    85,
+    255,
+    255
+  ]
+}
