@@ -1,4 +1,3 @@
-# majestic-fishing-bot
 
 # 🎣 Majestic RP Fishing Bot v1.0
 
